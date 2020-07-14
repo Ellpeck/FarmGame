@@ -19,4 +19,8 @@
         <Content Include="Content\*\**" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Content\Tiled" />
+    </ItemGroup>
+
 </Project>
